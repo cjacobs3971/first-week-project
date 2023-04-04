@@ -21,7 +21,7 @@
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*header tab customization below*/
 .header tabs {
     padding-top: 15px;
     margin-right: 20px;
@@ -61,7 +61,7 @@ p {
     font-size: 16px;
 }
 
-/*could change to just use one directions for 2 next sections*/
+/*used to move the beenefits section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -104,7 +104,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*this area is for teh vertical column on teh bottom right of the landing page*/
+/*this area is for the vertical column on the bottom right of the landing page*/
 .benefit-snippet {
     margin-bottom: 32px;
     color: #ffffff;
